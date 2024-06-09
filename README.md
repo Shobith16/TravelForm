@@ -15,7 +15,7 @@ This project is a single-page application for managing travel forms. It allows u
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
-- **Database**: MySQL (if applicable)
+- **Database**: MySQL 
 
 ## Getting Started
 
